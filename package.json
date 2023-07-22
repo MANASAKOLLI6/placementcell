@@ -1,0 +1,11 @@
+{
+  "name": "placementcell",
+  "version": "1.0.0",
+  "description": "cn_skill_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manasa_kolli",
+  "license": "ISC"
+}
